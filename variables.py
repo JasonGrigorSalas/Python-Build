@@ -10,5 +10,5 @@ dinosaurs = ["Allosaurus", "Stegosaurus", "Diplodocus", "Apatosaurus", "Brachios
 print("My name is " + name)
 print("My age is " + str(age))
 
-alternateName = input("What is your name?")
+alternateName = input("What is your name? ")
 print("My name is now " + alternateName)
